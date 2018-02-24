@@ -1,0 +1,12 @@
+S,A,B,C,D
+(,)
+S
+A,(,null
+B,),null
+C,A,S
+D,S,B
+S,A,B
+S,C,B
+S,A,D
+S,C,D
+S,S,S
